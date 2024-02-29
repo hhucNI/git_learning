@@ -2,8 +2,4 @@ hello branch
 change on branch that i think can be merged
 change before switch to dev2
 
-
-
-
-
-add another line in master in the same file
+conflict fixed
